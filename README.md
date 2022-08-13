@@ -1,2 +1,3 @@
-
-<img src="hello.svg" style="display: block;" align="center"/>
+<p align="center">
+<img src="hello.svg"/>
+</p>
