@@ -1,0 +1,59 @@
+<svg fill="none" viewBox="0 0 600 120" width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+@keyframes bounce {
+  0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  3%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  5%   { transform: scale(1.1,  .9)  translateY(5px)   skew(0deg,  0deg); }
+  12%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
+  13%  { transform: scale(.9,   1.1) translateY(-70px) skew(25deg, 5deg); }
+  20%  { transform: scale(1.05, .95) translateY(0)     skew(0deg,  0deg); }
+  22%  { transform: scale(1,    1)   translateY(-7px)  skew(0deg,  0deg); }
+  27%  { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+}
+@keyframes rotation {
+  0%   { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+  50% { transform: scale(.5,    .5)   translateY(0)     skew(0deg,  0deg); }
+  100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
+}
+@keyframes fadein {
+  0%   { opacity: 0% }
+  100% { opacity: 100% }
+}
+@keyframes wave {
+  0%   { transform: rotate(0deg) }
+  10%   { transform: rotate(30deg) }
+  20%   { transform: rotate(-30deg) }
+  30%   { transform: rotate(30deg) }
+  40%   { transform: rotate(-30deg) }
+  50%   { transform: rotate(30deg) }
+  60%   { transform: rotate(-30deg) }
+  70%   { transform: rotate(0deg) }
+  100%   { transform: rotate(0deg) }
+}
+h1 {
+  padding-top: 0px;
+  text-align: center;
+  font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
+  transform-origin: center;
+  animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s fadein;
+}
+rect {
+    transform-origin: center
+    transform: translateY(0)
+}
+.wave {
+  padding-top: 0px;
+  text-align: center;
+  font: 400 32px/1.5 Helvetica ,Arial ,sans-serif;
+  transform-origin: center 64px 0px;
+  animation: 2s cubic-bezier(.5, 0, .5, 1.2) 1s infinite wave;
+}
+      </style>
+      <h2 class="wave"> 👋 </h2>
+      <h1 align="center">Hello there , nice to meet you. 🐱 </h1>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,0 +1,87 @@
+<svg fill="none" viewBox="-125 125 -125 125" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+@keyframes rotatea {
+  0%     { transform: perspective(300px) rotateX(20deg) rotateY(0deg)   translateZ( 50px ); opacity: 0%   }
+  25%    { transform: perspective(300px) rotateX(20deg) rotateY(90deg)  translateZ( 50px ); opacity: 0%   }
+  25.1%  { transform: perspective(300px) rotateX(20deg) rotateY(90deg)  translateZ( 50px ); opacity: 100% }
+  50%    { transform: perspective(300px) rotateX(20deg) rotateY(180deg) translateZ( 50px ); opacity: 100% }
+  75%    { transform: perspective(300px) rotateX(20deg) rotateY(270deg) translateZ( 50px ); opacity: 100% }
+  75.1%  { transform: perspective(300px) rotateX(20deg) rotateY(270deg) translateZ( 50px ); opacity: 0%   }
+  100%   { transform: perspective(300px) rotateX(20deg) rotateY(360deg) translateZ( 50px ); opacity: 0%   }
+}
+@keyframes rotateb {
+  0%    { transform: perspective(300px) rotateX(20deg) rotateY(-90deg)  translateZ( 50px ); opacity: 100% }
+  0.1%  { transform: perspective(300px) rotateX(20deg) rotateY(-90deg)  translateZ( 50px ); opacity: 0%   }
+  25%   { transform: perspective(300px) rotateX(20deg) rotateY(0deg)    translateZ( 50px ); opacity: 0%   }
+  50%   { transform: perspective(300px) rotateX(20deg) rotateY(90deg)   translateZ( 50px ); opacity: 0%   }
+  50.1% { transform: perspective(300px) rotateX(20deg) rotateY(90deg)   translateZ( 50px ); opacity: 100% }
+  75%   { transform: perspective(300px) rotateX(20deg) rotateY(180deg)  translateZ( 50px ); opacity: 100% }
+  100%  { transform: perspective(300px) rotateX(20deg) rotateY(270deg)  translateZ( 50px ); opacity: 100% }
+}
+@keyframes rotated {
+  0%    { transform: perspective(300px) rotateX(20deg) rotateY(-270deg) translateZ( 50px ); opacity: 0% }
+  0.1%  { transform: perspective(300px) rotateX(20deg) rotateY(-270deg) translateZ( 50px ); opacity: 100% }
+  25%   { transform: perspective(300px) rotateX(20deg) rotateY(-180deg) translateZ( 50px ); opacity: 100% }
+  50%   { transform: perspective(300px) rotateX(20deg) rotateY(-90deg)  translateZ( 50px ); opacity: 100% }
+  50.1% { transform: perspective(300px) rotateX(20deg) rotateY(-90deg)  translateZ( 50px ); opacity: 0% }
+  75%   { transform: perspective(300px) rotateX(20deg) rotateY(0deg)    translateZ( 50px ); opacity: 0% }
+  100%  { transform: perspective(300px) rotateX(20deg) rotateY(90deg)   translateZ( 50px ); opacity: 0% }
+}
+@keyframes rotatee {
+  0%     { transform: perspective(300px) rotateX(20deg) rotateY(-180deg) translateZ( 50px );  opacity: 100% }
+  25%    { transform: perspective(300px) rotateX(20deg) rotateY(-90deg)   translateZ( 50px ); opacity: 100% }
+  25.1%  { transform: perspective(300px) rotateX(20deg) rotateY(-90deg)   translateZ( 50px ); opacity: 0% }
+  50%    { transform: perspective(300px) rotateX(20deg) rotateY(0deg)  translateZ( 50px );    opacity: 0% }
+  75%    { transform: perspective(300px) rotateX(20deg) rotateY(90deg) translateZ( 50px );    opacity: 0% }
+  75.1%  { transform: perspective(300px) rotateX(20deg) rotateY(90deg) translateZ( 50px );    opacity: 100% }
+  100%   { transform: perspective(300px) rotateX(20deg) rotateY(180deg) translateZ( 50px );   opacity: 100% }
+}
+@keyframes rotatec {
+  0%   { transform: perspective(300px) rotateX(110deg) rotateZ(270deg) translateZ( 50px ); opacity: 100% }
+  25%  { transform: perspective(300px) rotateX(110deg) rotateZ(180deg) translateZ( 50px ); opacity: 100% }
+  50%  { transform: perspective(300px) rotateX(110deg) rotateZ(90deg)  translateZ( 50px ); opacity: 100% }
+  75%  { transform: perspective(300px) rotateX(110deg) rotateZ(0deg)   translateZ( 50px ); opacity: 100% }
+  100% { transform: perspective(300px) rotateX(110deg) rotateZ(-90deg) translateZ( 50px ); opacity: 100% }
+}
+
+rect {
+  transform-origin: center;
+  stroke-width:2;
+  stroke:rgb(0,0,0)
+}
+.side {
+  fill: url('#side-gradient');
+}
+.top {
+  fill: url('#top-gradient');
+}
+      </style>
+    </div>
+  </foreignObject>
+  <defs>
+    <linearGradient id="side-gradient" x1="50%" y1="0%" x2="50%" y2="100%" > 
+      <stop offset="0%" stop-color="#7A5FFF">
+          <animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#01FF89">
+          <animate attributeName="stop-color" values="#01FF89; #7A5FFF; #01FF89" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient> 
+    <linearGradient id="top-gradient" x1="50%" y1="0%" x2="50%" y2="100%" > 
+      <stop offset="0%" stop-color="#7A5FFF">
+          <animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#7A5FFF">
+          <animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient> 
+  </defs>
+
+  <rect class="side" id="a" width="100" height="100" x="75" y="75" style="animation: 2s linear 1s infinite rotatea;"/>
+  <rect class="side" id="b" width="100" height="100" x="75" y="75" style="animation: 2s linear 1s infinite rotateb;"/>
+  <rect class="side" id="d" width="100" height="100" x="75" y="75" style="animation: 2s linear 1s infinite rotated;"/>
+  <rect class="side" id="e" width="100" height="100" x="75" y="75" style="animation: 2s linear 1s infinite rotatee;"/>
+  <rect class="top"  id="c" width="100" height="100" x="75" y="75" style="animation: 2s linear 1s infinite rotatec;"/>
+</svg>
