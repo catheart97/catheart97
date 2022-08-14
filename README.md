@@ -3,7 +3,9 @@
 </p>
 <h1 align="center"> 👋 Hello there, nice to meet you. 🐱</h1>
 
-<!-- Did you know, ... -->
+<p align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Once%20upon%20a%20time%20a%20developer%20said&query=text&url=https%3A%2F%2Fapi.devexcus.es%2F&style=for-the-badge&color=purple"/>
+</p>
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/-C%2FC%2B%2B-white?style=flat&logo=cplusplus&logoColor=black"/>
@@ -32,11 +34,13 @@
     <img src="https://img.shields.io/badge/-node.js-black?style=flat&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Tensorflow-black?style=flat&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Electron-black?style=flat&logo=electron&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-npm-black?style=flat&logo=npm&logoColor=white"/>
 </p>
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/-blender-white?style=flat&logo=blender&logoColor=black"/>
     <img src="https://img.shields.io/badge/-git-white?style=flat&logo=git&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat&logo=visualstudiocode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-GitLab-white?style=flat&logo=gitlab&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-gitea-white?style=flat&logo=gitea&logoColor=black"/>
 </p>
-
