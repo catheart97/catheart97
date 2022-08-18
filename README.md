@@ -8,6 +8,9 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=catheart97&label=Profile%20views&color=18DF9B&style=for-the-badge" alt="catheart97"/>
+  
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/ronja-schnur-a19147244/"/>
+  
 </p>
 
 <p align="center"> 
@@ -46,4 +49,6 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-white?style=flat&logo=visualstudiocode&logoColor=black"/>
     <img src="https://img.shields.io/badge/-GitLab-white?style=flat&logo=gitlab&logoColor=black"/>
     <img src="https://img.shields.io/badge/-gitea-white?style=flat&logo=gitea&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Trello-white?style=flat&logo=Trello&logoColor=black"/>
 </p>
