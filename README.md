@@ -4,7 +4,12 @@
 <h1 align="center"> 👋 Hello there, nice to meet you. 🐱</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Once%20upon%20a%20time%20a%20developer%20said&query=text&url=https%3A%2F%2Fapi.devexcus.es%2F&style=for-the-badge&color=purple"/>
+  
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=catheart97&label=Profile%20views&color=18DF9B&style=for-the-badge" alt="catheart97"/>
+  <!--img src="https://img.shields.io/badge/dynamic/json?label=&query=text&url=https%3A%2F%2Fapi.devexcus.es%2F&style=for-the-badge&color=18DF9B"/-->
+  <img src="https://img.shields.io/badge/dynamic/json?label=&query=joke&url=https%3A%2F%2Fv2.jokeapi.dev%2Fjoke%2FProgramming%3FblacklistFlags%3Dnsfw%2Creligious%2Cpolitical%2Cracist%2Csexist%2Cexplicit%26type%3Dsingle&style=for-the-badge&color=18DF9B"/>
 </p>
 
 <p align="center"> 
