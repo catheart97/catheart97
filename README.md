@@ -11,6 +11,7 @@
   
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/ronja-schnur-a19147244/"/>
   
+  <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" href="https://leetcode.com/catheart97/"/>
 </p>
 
 <p align="center"> 
