@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=catheart97&label=Profile%20views&color=18DF9B&style=for-the-badge" alt="catheart97"/>
   <a href="https://www.linkedin.com/in/ronja-schnur-a19147244/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/catheart97/"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://gist.github.com/catheart97"><img src="https://img.shields.io/badge/Gists-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 <p align="center"> 
