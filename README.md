@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/-Tensorflow-black?style=flat&logo=tensorflow&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Electron-black?style=flat&logo=electron&logoColor=white"/>
     <img src="https://img.shields.io/badge/-npm-black?style=flat&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-reactjs-black?style=flat&logo=react&logoColor=white"/>
 </p>
 
 <p align="center"> 
