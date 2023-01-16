@@ -5,7 +5,7 @@
 
 <p align="center">
   I'm Ronja, a computer science researcher at the Johannes Gutenberg University Mainz. <br/>
-  My research interests are computer graphics and their application for web and game development.
+  My research interests are computer graphics and their application for science and web/game development.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/catheart97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
