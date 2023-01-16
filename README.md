@@ -4,7 +4,8 @@
 <h1 align="center"> 👋 Hello there, nice to meet you. 🐱</h1>
 
 <p align="center">
-  
+  I'm Ronja, a computer science researcher at the Johannes Gutenberg University Mainz. <br/>
+  My research interests are computer graphics and their application for web and game development.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/catheart97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,6 +13,8 @@
 <a href="https://gist.github.com/catheart97"><img src="https://img.shields.io/badge/Gists-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
+
+<p></p>
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/-C%2FC%2B%2B-white?style=flat&logo=cplusplus&logoColor=black"/>
