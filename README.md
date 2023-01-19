@@ -31,6 +31,8 @@
     <img src="https://img.shields.io/badge/-Bash-white?style=flat&logo=gnubash&logoColor=black"/>
     <img src="https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=black"/>
     <img src="https://img.shields.io/badge/-CSS-white?style=flat&logo=css3&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Typescript-white?style=flat&logo=typescript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Swift-white?style=flat&logo=swift&logoColor=black"/>
 </p>
 
 <p align="center"> 
