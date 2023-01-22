@@ -8,6 +8,7 @@
   My research interests are computer graphics and their application for science and web/game development.
 </p>
 <p align="center">
+  <a href="https://catheart97.github.io/"><img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/catheart97/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/catheart97/"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://gist.github.com/catheart97"><img src="https://img.shields.io/badge/Gists-black?style=for-the-badge&logo=github&logoColor=white"/>
