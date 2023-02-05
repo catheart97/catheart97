@@ -8,7 +8,7 @@
   My research interests are computer graphics and their application for science and web/game development.
 </p>
 <p align="center">
-  <a href="https://catheart97.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://catheart97.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logoColor=white&logo=github-pages" /></a>
   <a href="https://www.linkedin.com/in/catheart97/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/catheart97/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://gist.github.com/catheart97" target="_blank"><img src="https://img.shields.io/badge/Gists-black?style=for-the-badge&logo=github&logoColor=white"/>
@@ -62,6 +62,7 @@
     <img src="https://img.shields.io/badge/-GitLab-white?style=flat&logo=gitlab&logoColor=black"/>
     <img src="https://img.shields.io/badge/-gitea-white?style=flat&logo=gitea&logoColor=black"/>
     <img src="https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Homebrew-white?style=flat&logo=homebrew&logoColor=black"/>
 </p>
 
 <p align="center"> 
