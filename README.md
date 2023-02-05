@@ -22,17 +22,17 @@
     <img src="https://img.shields.io/badge/-CUDA%20C%2FC%2B%2B-white?style=flat&logo=nvidia&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=black"/>
     <img src="https://img.shields.io/badge/-C%23-white?style=flat&logo=csharp&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Java-white?style=flat"/>
     <img src="https://img.shields.io/badge/-Scala-white?style=flat&logo=scala&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Kotlin-white?style=flat&logo=kotlin&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Java-white?style=flat"/>
     <img src="https://img.shields.io/badge/-Javascript-white?style=flat&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Typescript-white?style=flat&logo=typescript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-GLSL-white?style=flat&logo=opengl&logoColor=black"/>
     <img src="https://img.shields.io/badge/-HLSL-white"/>
     <img src="https://img.shields.io/badge/-PowerShell-white?style=flat&logo=powershell&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Bash-white?style=flat&logo=gnubash&logoColor=black"/>
     <img src="https://img.shields.io/badge/-HTML5-white?style=flat&logo=html5&logoColor=black"/>
     <img src="https://img.shields.io/badge/-CSS-white?style=flat&logo=css3&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Typescript-white?style=flat&logo=typescript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Swift-white?style=flat&logo=swift&logoColor=black"/>
 </p>
 
