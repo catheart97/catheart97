@@ -1,10 +1,10 @@
 <p align="center">
 <img width="300px" src="cube.svg"/>
 </p>
-<h1 align="center"> 👋 Hello there, nice to meet you. 🐱</h1>
+<h1 align="center"> 👋 I'm Ronja, nice to meet you. 🐱</h1>
 
 <p align="center">
-  I'm Ronja, a computer science researcher at the Johannes Gutenberg University Mainz. <br/>
+  I'm a computer science researcher at the Johannes Gutenberg University Mainz. <br/>
   My research interests are computer graphics and their application for science and web/game development.
 </p>
 <p align="center">
@@ -62,5 +62,10 @@
     <img src="https://img.shields.io/badge/-GitLab-white?style=flat&logo=gitlab&logoColor=black"/>
     <img src="https://img.shields.io/badge/-gitea-white?style=flat&logo=gitea&logoColor=black"/>
     <img src="https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=black"/>
-    <img src="https://img.shields.io/badge/-Trello-white?style=flat&logo=Trello&logoColor=black"/>
+</p>
+
+<p align="center"> 
+    <img src="https://img.shields.io/badge/-macOS-white?style=flat&logo=macos&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Windows-white?style=flat&logo=windows&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=black"/>
 </p>
