@@ -41,6 +41,7 @@
     <img src="https://img.shields.io/badge/-Unity-black?style=flat&logo=unity"/>
     <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Tailwind.css-black?style=flat&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Qt-black?style=flat&logo=qt&logoColor=white"/>
     <img src="https://img.shields.io/badge/-mariaDB%2FmySQL-black?style=flat&logo=mariadb&logoColor=white"/>
     <img src="https://img.shields.io/badge/-sqlite-black?style=flat&logo=sqlite&logoColor=white"/>
@@ -49,6 +50,9 @@
     <img src="https://img.shields.io/badge/-Electron-black?style=flat&logo=electron&logoColor=white"/>
     <img src="https://img.shields.io/badge/-npm-black?style=flat&logo=npm&logoColor=white"/>
     <img src="https://img.shields.io/badge/-reactjs-black?style=flat&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Webpack-black?style=flat&logo=webpack&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-vite-black?style=flat&logo=vite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Babylon.js-black?style=flat"/>
 </p>
 
 <p align="center"> 
