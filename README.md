@@ -63,6 +63,7 @@
     <img src="https://img.shields.io/badge/-gitea-white?style=flat&logo=gitea&logoColor=black"/>
     <img src="https://img.shields.io/badge/-GitHub-white?style=flat&logo=github&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Homebrew-white?style=flat&logo=homebrew&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=black"/>
 </p>
 
 <p align="center"> 
