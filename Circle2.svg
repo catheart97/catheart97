@@ -1,0 +1,72 @@
+<svg fill="none" viewBox="0 0 250 250" width="250" height="250" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+@keyframes circA {
+  0%    { transform: rotateZ(0deg) }
+  50%   { transform: rotateZ(180deg)}
+  100%  { transform: rotateZ(360deg) }
+}
+@keyframes circB {
+  0%    { transform: rotateZ(0deg)   scale(1) }
+  50%   { transform: rotateZ(180deg) scale(1.5) }
+  100%  { transform: rotateZ(360deg) scale(1) }
+}
+@keyframes circC {
+  0%    { transform: rotateZ(360deg)   scale(1) }
+  50%   { transform: rotateZ(180deg) scale(0.8) }
+  100%  { transform: rotateZ(0deg) scale(1) }
+}
+@keyframes circD {
+  0%    { transform: rotateZ(360deg)   scale(1) }
+  50%   { transform: rotateZ(180deg) scale(1.2) }
+  100%  { transform: rotateZ(0deg) scale(1) }
+}
+
+rect, polygon, circle, path, g {
+  transform-origin: center;
+  -webkit-transform-origin: center;
+  stroke-width:2;
+}
+.side {
+  stroke: url('#side-gradient')
+}
+.top {
+  stroke: url('#top-gradient')
+}
+      </style>
+    </div>
+  </foreignObject>
+  <defs>
+    <linearGradient id="side-gradient" x1="50%" y1="0%" x2="50%" y2="100%" > 
+      <stop offset="0%" stop-color="#7A5FFF">
+          <animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#01FF89">
+          <animate attributeName="stop-color" values="#01FF89; #7A5FFF; #01FF89" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient> 
+    <linearGradient id="top-gradient" x1="50%" y1="0%" x2="50%" y2="100%" > 
+      <stop offset="0%" stop-color="#7A5FFF">
+          <animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+      <stop offset="100%" stop-color="#7A5FFF">
+          <animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="4s" repeatCount="indefinite"></animate>
+      </stop>
+    </linearGradient> 
+  </defs>
+
+  <!-- <circle cx="125" cy="125" r="100" class="top"/> -->
+  <g style="animation: 2s linear 1s infinite circA;" class="top">
+    <path d="M 65 125 A 60 60 45 1 1 185 125" />
+  </g>
+  <g style="animation: 2s linear 1s infinite circD;" class="top">
+    <path d="M 65 125 A 60 60 45 1 1 185 125" />
+  </g>
+  <g style="animation: 2s linear 1s infinite circB;" class="side">
+    <path d="M 65 125 A 60 60 0 1 0 185 125" />
+  </g>
+  <g style="animation: 2s linear 1s infinite circC;" class="side">
+    <path d="M 65 125 A 60 60 0 1 0 185 125" />
+  </g>
+</svg>
