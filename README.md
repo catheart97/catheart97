@@ -1,8 +1,9 @@
 <p align="center">
-<a href="https://catheart97.github.io/" target="_blank">
-<img width="150px" src="cube.svg"/>
-<img width="150px" src="prism.svg"/>
-<img width="150px" src="cube2.svg"/>
-<img width="150px" src="Circle2.svg"/>
-</a>
+    <img width="150px" src="cube.svg"/>
+  &nbsp;
+    <img width="150px" src="prism.svg"/>
+  &nbsp;
+    <img width="150px" src="cube2.svg"/>
+  &nbsp;
+    <img width="150px" src="Circle2.svg"/>
 </p>
