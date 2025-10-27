@@ -1,9 +1,9 @@
 <p align="center">
-    <img width="150px" src="cube.svg"/>
+    <img width="151px" src="cube.svg"/>
   &nbsp;
-    <img width="150px" src="prism.svg"/>
+    <img width="151px" src="prism.svg"/>
   &nbsp;
-    <img width="150px" src="cube2.svg"/>
+    <img width="151px" src="cube2.svg"/>
   &nbsp;
-    <img width="150px" src="Circle2.svg"/>
+    <img width="151px" src="Circle2.svg"/>
 </p>
